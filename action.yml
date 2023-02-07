@@ -1,5 +1,5 @@
 # action.yml
-name: 'AWS eb command'
+name: 'AWS eb cli command'
 
 author: BeOp
 
